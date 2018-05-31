@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,TELEMUNDO 29
+rtmp://podi.hopper.pw:443/live/live_telemundo29
+
+#EXTINF:-1,TELEMUNDO 34
+rtmp://podi.hopper.pw:443/live/live_telemundo34
+
+#EXTINF:-1,TELEMUNDO 35
+rtmp://podi.hopper.pw:443/live/live_telemundo35
+
+#EXTINF:-1,UNIVISION
+rtmp://podi.hopper.pw:443/live/live_univision_hd30
+
+#EXTINF:-1,UNIVISION 41 NY
+rtmp://podi.hopper.pw:443/live/live_univision41ny
+
+#EXTINF:-1,UNIVERSAL MOVIES
+rtmp://podi.hopper.pw:443/live/live_universal_movies
+
+#EXTINF:-1,TyCsports
+rtmp://podi.hopper.pw:443/live/live_afatv1
+
+#EXTINF:-1,UNIMAS
+rtmp://podi.hopper.pw:443/live/live_unimas12
+
+#EXTINF:-1,MEGA ANIME HD
+rtmp://podi.hopper.pw:443/live/live_mega_animeshd
+
+#EXTINF:-1,AMERICA TV
+rtmp://podi.hopper.pw:443/live/live_elyamato
+
+UNIVISION/ TDN DEPORTES 
+http://50.7.69.170:443/live/vhx96yckmpaxpq5/index.m3u8
